@@ -1,0 +1,62 @@
+{
+  "home": "Trang chủ",
+  "services": "Dịch vụ",
+  "projects": "Dự án",
+  "blog": "Blog",
+  "contact": "Liên hệ",
+  "request_quote": "Yêu cầu báo giá",
+  
+  "hero": {
+    "title": "Chúng tôi giúp bạn hiện thực hóa ý tưởng",
+    "description": "Cung cấp giải pháp phần mềm tùy chỉnh, nhanh chóng và hiệu quả",
+    "cta_primary": "Xem Dịch Vụ",
+    "cta_secondary": "Liên hệ ngay"
+  },
+
+  "services": {
+    "title": "Dịch Vụ Của Chúng Tôi",
+    "subtitle": "Chúng tôi cung cấp các giải pháp công nghệ toàn diện cho doanh nghiệp của bạn",
+    "web": {
+      "title": "Phát triển Web",
+      "description": "Xây dựng website chuyên nghiệp, tối ưu SEO và trải nghiệm người dùng"
+    },
+    "mobile": {
+      "title": "Ứng dụng Di động",
+      "description": "Phát triển ứng dụng di động đa nền tảng iOS và Android"
+    },
+    "ai": {
+      "title": "AI & Machine Learning",
+      "description": "Giải pháp trí tuệ nhân tạo và học máy tiên tiến"
+    },
+    "cloud": {
+      "title": "Điện toán Đám mây",
+      "description": "Tư vấn và triển khai giải pháp đám mây"
+    },
+    "consulting": {
+      "title": "Tư vấn Công nghệ",
+      "description": "Định hướng và tư vấn chiến lược công nghệ"
+    },
+    "security": {
+      "title": "Bảo mật",
+      "description": "Giải pháp bảo mật toàn diện cho doanh nghiệp"
+    }
+  },
+
+  "projects": {
+    "title": "Dự Án Tiêu Biểu",
+    "subtitle": "Khám phá những dự án thành công của chúng tôi",
+    "view_details": "Xem chi tiết",
+    "1": {
+      "title": "Nền tảng Thương mại Điện tử",
+      "description": "Xây dựng hệ thống thương mại điện tử quy mô lớn"
+    },
+    "2": {
+      "title": "Ứng dụng Giao đồ ăn",
+      "description": "Ứng dụng di động đặt và giao đồ ăn"
+    },
+    "3": {
+      "title": "Hệ thống AI Dự báo",
+      "description": "Giải pháp dự báo thông minh cho doanh nghiệp"
+    }
+  }
+}

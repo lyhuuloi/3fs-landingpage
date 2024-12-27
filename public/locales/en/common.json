@@ -1,0 +1,62 @@
+{
+  "home": "Home",
+  "services": "Services",
+  "projects": "Projects",
+  "blog": "Blog",
+  "contact": "Contact",
+  "request_quote": "Request Quote",
+  
+  "hero": {
+    "title": "We Help You Bring Ideas to Life",
+    "description": "Providing custom software solutions, fast and efficiently",
+    "cta_primary": "View Services",
+    "cta_secondary": "Contact Us"
+  },
+
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide comprehensive technology solutions for your business",
+    "web": {
+      "title": "Web Development",
+      "description": "Building professional websites optimized for SEO and user experience"
+    },
+    "mobile": {
+      "title": "Mobile Apps",
+      "description": "Developing cross-platform mobile applications for iOS and Android"
+    },
+    "ai": {
+      "title": "AI & Machine Learning",
+      "description": "Advanced artificial intelligence and machine learning solutions"
+    },
+    "cloud": {
+      "title": "Cloud Computing",
+      "description": "Cloud solution consulting and implementation"
+    },
+    "consulting": {
+      "title": "Technology Consulting",
+      "description": "Technology strategy guidance and consulting"
+    },
+    "security": {
+      "title": "Security",
+      "description": "Comprehensive security solutions for businesses"
+    }
+  },
+
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Explore our successful projects",
+    "view_details": "View Details",
+    "1": {
+      "title": "E-commerce Platform",
+      "description": "Building large-scale e-commerce system"
+    },
+    "2": {
+      "title": "Food Delivery App",
+      "description": "Mobile app for food ordering and delivery"
+    },
+    "3": {
+      "title": "AI Forecasting System",
+      "description": "Intelligent forecasting solution for businesses"
+    }
+  }
+}
