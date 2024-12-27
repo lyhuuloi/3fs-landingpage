@@ -2,13 +2,14 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['images.unsplash.com'],
+    domains: ['profile.3fs.vn'],
   },
   env: {
     COMPANY_NAME: '3F Solutions Co., Ltd.',
     COMPANY_SHORT_NAME: '3FS',
     COMPANY_WEBSITE: '3fs.vn'
-  }
+  },
+	output: 'export', 
 }
 
 module.exports = nextConfig
